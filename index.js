@@ -2,8 +2,7 @@
 const companyName = 'Scuber';
 companyName = 'AnotherCompanyName';
 
-let mostProfitableNeighborhood;
-mostProfitableNeighborhood = 'Chelsea';
+let mostProfitableNeighborhood = 'Chelsea' ;
 mostProfitableNeighborhood = 'Upper West Side';
 
 let companyCeo = 'Susan Smith';
